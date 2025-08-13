@@ -1,7 +1,38 @@
-# Packet Sniffer in Python
-This project captures network packets in real-time and displays details like IP addresses, protocols, and packet size.
+## 🖥️ How to Run the Project
 
-## Features
-- Capture network packets in real-time
-- Display source and destination IP addresses
-- Show protocol type and packet length
+Follow these steps:
+
+1️⃣ Download the Project
+Click the green **Code** button at the top-right of this repository, then select **Download ZIP**.  
+Extract the ZIP file on your computer and save in a folder
+
+
+2️⃣ Install Python
+Make sure you have **Python 3** installed.  
+Check using:
+```bash
+python --version
+
+If not installed, download from:
+https://www.python.org/downloads/
+
+3️⃣ Install Required Libraries
+Run the following command:
+
+pip install scapy
+
+4️⃣ Run the Script
+Navigate to the folder and run:
+
+python packet_sniffer.py
+💡 Note: On some systems, you may need to run with administrator/root privileges:
+
+sudo python packet_sniffer.py
+
+5️⃣ View the Output
+The program will display captured packets in the terminal.
+Example:
+
+Source: 192.168.1.5 -> Destination: 142.250.183.238 | Protocol: TCP | Length: 60
+Source: 142.250.183.238 -> Destination: 192.168.1.5 | Protocol: TCP | Length: 52
+
