@@ -1,2 +1,7 @@
-# Packet-Sniffer
-A Python-based packet sniffer tool that captures and analyzes network traffic in real time using Scapy.  This tool allows you to monitor TCP, UDP, and ICMP packets, view packet details, and filter traffic for network debugging, learning, or cybersecurity research.
+# Packet Sniffer in Python
+This project captures network packets in real-time and displays details like IP addresses, protocols, and packet size.
+
+## Features
+- Capture network packets in real-time
+- Display source and destination IP addresses
+- Show protocol type and packet length
