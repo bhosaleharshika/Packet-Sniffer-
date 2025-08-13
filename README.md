@@ -1,6 +1,6 @@
 ## 🖥️ How to Run the Project
 
-Follow these steps:<img width="623" height="297" alt="image" src="https://github.com/user-attachments/assets/5a57b746-bced-4a28-8803-15a58092f4f6" />
+Follow these steps:
 
 
 1️⃣ Download the Project
@@ -36,4 +36,14 @@ Example:
 
 Source: 192.168.1.5 -> Destination: 142.250.183.238 | Protocol: TCP | Length: 60
 Source: 142.250.183.238 -> Destination: 192.168.1.5 | Protocol: TCP | Length: 52
+
+Screenshots:-
+<img width="1548" height="629" alt="image" src="https://github.com/user-attachments/assets/edcc4bad-f67d-4f08-9d6e-9b99048b6852" />
+
+<img width="1036" height="571" alt="image" src="https://github.com/user-attachments/assets/6f39cb41-224b-4887-8205-dcad7d62dee3" />
+
+<img width="1356" height="571" alt="image" src="https://github.com/user-attachments/assets/1680aa13-ea3f-4df2-a5d9-c81d9426e3d4" />
+
+
+
 
