@@ -1,6 +1,7 @@
 ## 🖥️ How to Run the Project
 
-Follow these steps:
+Follow these steps:<img width="623" height="297" alt="image" src="https://github.com/user-attachments/assets/5a57b746-bced-4a28-8803-15a58092f4f6" />
+
 
 1️⃣ Download the Project
 Click the green **Code** button at the top-right of this repository, then select **Download ZIP**.  
